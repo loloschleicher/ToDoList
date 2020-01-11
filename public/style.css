@@ -1,0 +1,111 @@
+body, html{
+    background-image: url('./background.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100%;
+    background-position: center
+}
+
+p{
+    font-size: 20px;
+    color: white;
+    text-align: center
+}
+
+#inverted{
+    margin-left: 48.5%;
+    margin-top: 2%;
+}
+
+footer{
+    margin-top: 50vh;
+    height: 20vh;
+    background-color: rgb(46, 44, 44);
+}
+
+.logo{
+    font-size: 25px;
+    font-weight: bold;
+}
+
+.task{
+ 
+    background-color: whitesmoke !important;   
+    height: 50px;
+    width: 50%;
+    opacity: 0.9;
+     border: .5px solid black;
+      color: black;
+      float: left
+}
+
+li{
+    list-style-type: decimal;
+    height: 50px;
+    width: 100%;
+}
+
+.divDelete{
+    width: 30%;
+    height: 50px;
+    margin-left: 50%;
+
+}
+
+.down{
+    float: left;
+    margin-top: 1.5%;
+}
+
+.up{
+    float: left;
+    margin-top: 1.5%;
+}
+
+.close{
+    float: left;
+    margin-left: 9.5%;
+    margin-top: 1.5%;
+}
+
+ul{
+    margin-left: 33%; 
+    margin-top: 1%;
+}
+
+#formAdd{
+    width: 35%;
+    text-align: center;
+    margin-left: 33%;
+}
+
+h1{
+    font-weight: bold !important;
+    font-size: 30px;
+    margin-top: 2%;
+}
+
+#copy{
+    color: white !important;
+}
+
+#documentation footer{
+    margin-top: 55vh !important;
+}
+
+#documentation h1{
+    text-align: center;
+    background-color: black;
+    opacity: 0.8;
+    color: white
+}
+
+#documentation p{
+    color: black;
+}
+
+button{
+    height: 20px;
+}
+
+
